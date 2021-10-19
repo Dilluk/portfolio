@@ -1,2 +1,5 @@
-# portfolio
- Portfólio do Desenvolvedor
+# Portfólio
+ > Portfólio do Desenvolvedor
+
+# Tarefas
+> O controle das tarefas desse projeto será realizado no GitHub.
